@@ -1,0 +1,16 @@
+{
+  "name": "arweave-upload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@bundlr-network/client": "^0.7.13",
+    "@types/node": "^18.0.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "execute": "tsc index.ts && node index.js"
+  }
+}

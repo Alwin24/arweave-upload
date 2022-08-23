@@ -1,0 +1,70 @@
+{
+    "name": "DBH Gen1 #9",
+    "symbol": "DBHDUEL",
+    "description": "Duel NFTs of Degen Bounty Hunter, a project created by degens for degens. 2222 unique Gen1 NFTs.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://bafybeiehqmgtpz244l3fny3f63sez5wo6cfogh7yqbm5f7qujvvvgvnjby.ipfs.dweb.link/1.png",
+    "external_url": "https://www.degen-bounty-hunter.com/",
+    "edition": 1,
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Army Red"
+        },
+        {
+            "trait_type": "WEAPONS",
+            "value": "CHOPPED"
+        },
+        {
+            "trait_type": "CLOTHES",
+            "value": "Daddy pink"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Ted"
+        },
+        {
+            "trait_type": "NOSE",
+            "value": "Sean"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Egyptian"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Classic"
+        },
+        {
+            "trait_type": "HAND",
+            "value": "None"
+        },
+        {
+            "trait_type": "FRAME",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "GEN",
+            "value": "Duel"
+        },
+        {
+            "trait_type": "BOUNTY",
+            "value": "0.9"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://bafybeiehqmgtpz244l3fny3f63sez5wo6cfogh7yqbm5f7qujvvvgvnjby.ipfs.dweb.link/1.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "5mfkNCR8Fo5p3DLHYBW6knuArGEgj8Ui2Lm4qnWEWUFh",
+                "share": 100
+            }
+        ]
+    }
+}

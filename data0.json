@@ -1,0 +1,49 @@
+{
+    "name": "Doge Capital Test #4534",
+    "symbol": "DCT",
+    "description": "Doge Capital is a collection of 5000 cute pixel doges on Solana. Why should monkes have all the fun? WOOF!",
+    "seller_fee_basis_points": 500,
+    "image": "https://www.arweave.net/9vYej88F1AqksPrchyrnQUGBY55KJ6Y7A-Nc4Vdsvfs?ext=png",
+    "external_url": "https://www.thedogecapital.com",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Hats",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pirate Vest"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth None"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/9vYej88F1AqksPrchyrnQUGBY55KJ6Y7A-Nc4Vdsvfs?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "5mfkNCR8Fo5p3DLHYBW6knuArGEgj8Ui2Lm4qnWEWUFh",
+                "share": 100
+            }
+        ]
+    }
+}

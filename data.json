@@ -1,0 +1,62 @@
+{
+    "name": "DBH Gen0 #2",
+    "symbol": "DBH",
+    "description": "First generation of Degen Bounty Hunter, a project created by degens for degens. 333 unique Gen0 NFTs.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://bafybeifa4pf7eiz2wyjx4sz5e3zfezeede7qcfo3oclzif2sor2zjsmrtu.ipfs.dweb.link/238.png",
+    "external_url": "https://www.degen-bounty-hunter.com/",
+    "edition": 2,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ROOMDBH"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SWEATDBH_PINK"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "GREEN"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "GREEN"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "TONGUE"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "FUD_BLUE"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "CAP_PINK"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "POKERHANDS"
+        },
+        {
+            "trait_type": "Bonus",
+            "value": "5"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://bafybeifa4pf7eiz2wyjx4sz5e3zfezeede7qcfo3oclzif2sor2zjsmrtu.ipfs.dweb.link/238.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "5mfkNCR8Fo5p3DLHYBW6knuArGEgj8Ui2Lm4qnWEWUFh",
+                "share": 100
+            }
+        ]
+    }
+}
